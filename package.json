@@ -1,0 +1,19 @@
+{
+  "name": "discord-floor-price-bot",
+  "version": "1.0.0",
+  "description": "run bot in discord",
+  "main": "./src/bot.ts",
+  "scripts": {
+    "dev": "tsc && node dist/src/bot.js"
+  },
+  "author": "Yii Chen",
+  "license": "Unlicense",
+  "dependencies": {
+    "eris": "^0.16.1",
+    "opensea-scraper": "^4.0.1",
+    "eth-price": "^0.1.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
