@@ -16,8 +16,8 @@
 實作Discord的NFT地板價機器人，持續將最新價格呈現給DC成員看，也可以透過指令查詢地板價，根據需求去使用，簡單幫NFT社群開發自己的功能機器人，提升社群價值
 
 ## Function Implement
-- [x] 定期更新NFT地板價
-- [x] 指令查詢NFT地板價
+- [x] Update NFT floor prices regularly 
+- [x] Use slash-command to get NFT floor price
 
 ## First
 
