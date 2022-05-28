@@ -39,13 +39,13 @@ tsc
 ### Excute
 
 ```
-node src/bot.js
+node dist/src/bot.js
 ```
 
 ### Combine
 
 ```
-tsc && node src/bot.js
+tsc && node dist/src/bot.js
 ```
 or
 ```
