@@ -33,7 +33,7 @@ https://discord.com/api/oauth2/authorize?client_id=975614035616258632&permission
 ### Compile
 
 ```
-tsc src/bot.ts
+tsc
 ```
 
 ### Excute
@@ -45,7 +45,7 @@ node src/bot.js
 ### Combine
 
 ```
-tsc src/bot.ts && node src/bot.js
+tsc && node src/bot.js
 ```
 or
 ```
