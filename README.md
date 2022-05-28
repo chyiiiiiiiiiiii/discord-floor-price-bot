@@ -23,7 +23,7 @@
 
 ### Invite own bot app to the Discord
 URL example:
-https://discord.com/api/oauth2/authorize?client_id=```975614035616258632```&permissions=0&scope=bot%20applications.commands
+https://discord.com/api/oauth2/authorize?client_id=975614035616258632&permissions=0&scope=bot%20applications.commands
 
 <img src="demo/application_id.png" />
 <img src="demo/add_bot.png" />
