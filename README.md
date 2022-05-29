@@ -58,6 +58,9 @@ yarn dev
 - opensea-scraper
 - eth-price
 
+## Artical
+- [Medium - 實作 Discord 機器人取得 NFT 地板價](https://ab20803.medium.com/%E5%AF%A6%E4%BD%9C-discord-%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%8F%96%E5%BE%97-nft-%E5%9C%B0%E6%9D%BF%E5%83%B9-eab2dee54ae1)
+
 ## About
 
 Github：https://github.com/chyiiiiiiiiiiii<br>
