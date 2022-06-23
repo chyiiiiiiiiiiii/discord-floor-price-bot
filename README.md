@@ -1,7 +1,5 @@
 # discord-floor-price-bot
 
-## Demo
-
 ### 1. Bot Name
 
 <img src="demo/bot_name.png" />
